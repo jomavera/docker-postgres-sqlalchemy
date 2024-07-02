@@ -1,6 +1,6 @@
 # Connection between Postgres database and Python (SQLAlchemy)
 
-This project allow to generate a docker container with a Postgres databse. This allows us to make queries using Python to this database in our local environment.
+This project allows to generate a docker container with a Postgres database. We can make queries using Python to this database in our local environment.
 
 ## Technologies
 
